@@ -10,7 +10,7 @@ Inspired by [this gist](https://gist.github.com/JoeyBurzynski/617fb6201335779f84
 
 ```css
 body {
-  font-family: ui-sans, sans-serif;
+  font-family: ui-sans-serif, sans-serif;
   font-size: 1.05em;
   line-height: 1.5em;
   margin: auto;
