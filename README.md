@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <strong>~1kb bytes minimal CSS reset</strong>
+  <strong>~1kb minimal CSS reset</strong>
 </p>
 
 ```css
